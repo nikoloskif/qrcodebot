@@ -1,0 +1,9 @@
+venv
+__pycache__
+picture.png
+donate.jpeg
+.DS_Store
+.env
+.git
+.vscode
+.mypy_cache
